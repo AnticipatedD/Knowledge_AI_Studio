@@ -1,13 +1,13 @@
-# Knowledge AI Studio
+# Knowledge_AI_Studio
 
 --- 
-title: Knowledge AI Studio
-emoji: 📖
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.32.0
-app_file: app.py
+title: Knowledge_AI_Studio 
+emoji: 📖 
+colorFrom: blue 
+colorTo: indigo 
+sdk: gradio 
+sdk_version: 6.32.0 
+app file: app.py
 pinned: false
 
 ---
